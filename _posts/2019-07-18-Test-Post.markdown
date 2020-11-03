@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Test Post"
-date:   2019-07-18 02:15:53 +0100
+date:   2019-07-18 00:15:52 +0100
+categories: jekyll update
 ---
 
 ### this is test post
